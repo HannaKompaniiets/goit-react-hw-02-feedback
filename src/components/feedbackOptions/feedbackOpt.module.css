@@ -9,3 +9,7 @@
 .button_feedback:not(:last-child) {
     margin-bottom: 8px;
 }
+
+.item_option {
+    text-transform: capitalize;
+}
